@@ -1,8 +1,8 @@
 {
-    "id": "neo4j",
+    "id": "neo4j_2",
     "version": "1.4.0",
     "meta": {
-        "label": "Neo4j",
+        "label": "Neo4j_2",
         "description": "Interact with the Neo4j graph database",
         "author": "Dataiku",
         "icon": "icon-neo4j icon-link",
